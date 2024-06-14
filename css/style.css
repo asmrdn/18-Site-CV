@@ -27,7 +27,6 @@ h1 {
   margin-bottom: 10px;
 }
 
-
 .ul_nav {
   list-style-type: none;
   margin: 0;
@@ -315,8 +314,10 @@ a[title="Hosted on free web hosting 000webhost.com. Host your own website for FR
   }
 }
 
+.pp {
+  color: #000000;
+}
 
-
-.pp{
+.pp2 {
   color: #000000;
 }
